@@ -6,27 +6,27 @@ const services = [
   {
     icon: Globe,
     title: "Full Stack Web Development",
-    desc: "Building scalable web applications using React, Node.js, and MongoDB.",
+    desc: "Eager to work on scalable web applications using React, Node.js, and MongoDB.",
   },
   {
     icon: Layout,
     title: "Frontend Development",
-    desc: "Creating responsive and interactive user interfaces.",
+    desc: "Looking to build responsive and interactive user interfaces.",
   },
   {
     icon: Server,
     title: "Backend Development",
-    desc: "Developing secure REST APIs and server-side applications.",
+    desc: "Interested in developing secure REST APIs and server-side applications.",
   },
   {
     icon: Coffee,
     title: "Java Application Development",
-    desc: "Developing Java-based applications and problem-solving systems.",
+    desc: "Keen to work on Java-based applications and problem-solving systems.",
   },
   {
     icon: Database,
     title: "Database Design",
-    desc: "Designing efficient MongoDB databases and backend structures.",
+    desc: "Excited to learn and design efficient MongoDB databases and backend structures.",
   },
 ];
 
@@ -43,9 +43,9 @@ const ServicesSection = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <p className="font-code text-primary text-sm mb-2">// what I offer</p>
+          <p className="font-code text-primary text-sm mb-2">// where I'm looking to grow</p>
           <h2 className="text-3xl md:text-4xl font-bold">
-            My <span className="text-gradient">Services</span>
+            Internship <span className="text-gradient">Domains</span>
           </h2>
         </motion.div>
 

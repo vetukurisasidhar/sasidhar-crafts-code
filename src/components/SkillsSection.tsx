@@ -68,9 +68,8 @@ const SkillsSection = () => {
               <div className="space-y-4">
                 {cat.skills.map((skill) => (
                   <div key={skill.name}>
-                    <div className="flex justify-between text-sm mb-1.5">
+                    <div className="text-sm mb-1.5">
                       <span className="text-muted-foreground">{skill.name}</span>
-                      <span className="text-primary font-code text-xs">{skill.level}%</span>
                     </div>
                     <div className="h-2 rounded-full bg-muted overflow-hidden">
                       <motion.div
