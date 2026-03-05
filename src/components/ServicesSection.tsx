@@ -43,9 +43,9 @@ const ServicesSection = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <p className="font-code text-primary text-sm mb-2">// what I offer</p>
+          <p className="font-code text-primary text-sm mb-2">// where I'm looking to grow</p>
           <h2 className="text-3xl md:text-4xl font-bold">
-            My <span className="text-gradient">Services</span>
+            Internship <span className="text-gradient">Domains</span>
           </h2>
         </motion.div>
 
