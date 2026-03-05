@@ -16,7 +16,7 @@ const services = [
   {
     icon: Server,
     title: "Backend Development",
-    desc: "Developing secure REST APIs and server-side applications.",
+    desc: "Interested in developing secure REST APIs and server-side applications.",
   },
   {
     icon: Coffee,
