@@ -26,7 +26,7 @@ const services = [
   {
     icon: Database,
     title: "Database Design",
-    desc: "Designing efficient MongoDB databases and backend structures.",
+    desc: "Excited to learn and design efficient MongoDB databases and backend structures.",
   },
 ];
 
