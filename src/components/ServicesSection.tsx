@@ -11,7 +11,7 @@ const services = [
   {
     icon: Layout,
     title: "Frontend Development",
-    desc: "Creating responsive and interactive user interfaces.",
+    desc: "Looking to build responsive and interactive user interfaces.",
   },
   {
     icon: Server,
