@@ -21,7 +21,7 @@ const services = [
   {
     icon: Coffee,
     title: "Java Application Development",
-    desc: "Developing Java-based applications and problem-solving systems.",
+    desc: "Keen to work on Java-based applications and problem-solving systems.",
   },
   {
     icon: Database,
