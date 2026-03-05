@@ -6,7 +6,7 @@ const services = [
   {
     icon: Globe,
     title: "Full Stack Web Development",
-    desc: "Building scalable web applications using React, Node.js, and MongoDB.",
+    desc: "Eager to work on scalable web applications using React, Node.js, and MongoDB.",
   },
   {
     icon: Layout,
