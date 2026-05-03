@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar-crafts-code/](https://vetukurisasidhar.github.io/sasidhar-crafts-code/)
+Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar-portfolio/](https://vetukurisasidhar.github.io/sasidhar-portfolio/)
 
 ## 🛠️ Tech Stack
 
@@ -36,8 +36,8 @@ Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar-crafts
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vetukurisasidhar/sasidhar-crafts-code.git
-   cd sasidhar-crafts-code
+   git clone https://github.com/vetukurisasidhar/sasidhar-portfolio.git
+   cd sasidhar-portfolio
    ```
 
 2. **Install dependencies**
@@ -96,12 +96,11 @@ This project is open source and available under the [MIT License](LICENSE).
 V. Sasidhar - Full Stack Developer
 - LinkedIn: [Your LinkedIn Profile]
 - Email: [Your Email]
-- Portfolio: [https://vetukurisasidhar.github.io/sasidhar-crafts-code/](https://vetukurisasidhar.github.io/sasidhar-crafts-code/)
+- Portfolio: [https://vetukurisasidhar.github.io/sasidhar-portfolio/](https://vetukurisasidhar.github.io/sasidhar-portfolio/)
 
 ---
 
-Built with ❤️ using React, TypeScript, and Tailwind CSS
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Built with ❤️ using React, TypeScript, and Tailwind CSS.
 
 ## What technologies are used for this project?
 
@@ -113,4 +112,16 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Deployment
 
+- Build: `npm run build`
+- Preview: `npm run preview`
+- GitHub Pages deploy: `npm run deploy`
+
+## Custom domain
+
+You can set up a custom domain from GitHub Pages settings for this repository.
+
+---
+
+Thank you for visiting Sasidhar's portfolio project.
