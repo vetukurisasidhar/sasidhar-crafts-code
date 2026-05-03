@@ -4,6 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: "/sasidhar-crafts-code/",
   server: {
     host: "::",
     port: 8080,
