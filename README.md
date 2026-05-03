@@ -1,53 +1,106 @@
-# Welcome to your Lovable project
+# V. Sasidhar - Full Stack Developer Portfolio
 
-## Project info
+A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full Stack Developer and Computer Science Engineering student.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Live Demo
 
-## How can I edit this code?
+Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar-crafts-code/](https://vetukurisasidhar.github.io/sasidhar-crafts-code/)
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
 
-**Use Lovable**
+- **Frontend**: React 18, TypeScript, Vite
+- **Styling**: Tailwind CSS, Shadcn/ui components
+- **Animations**: Framer Motion
+- **Routing**: React Router DOM
+- **State Management**: TanStack Query
+- **Icons**: Lucide React
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 📋 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- Responsive design that works on all devices
+- Dark/Light theme support
+- Smooth animations and transitions
+- Contact form with validation
+- Project showcase with live demos
+- Skills and experience sections
+- SEO optimized
 
-**Use your preferred IDE**
+## 🏃‍♂️ Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Prerequisites
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js (v16 or higher)
+- npm or yarn
 
-Follow these steps:
+### Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vetukurisasidhar/sasidhar-crafts-code.git
+   cd sasidhar-crafts-code
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+   The application will be available at `http://localhost:8080`
+
+### Build for Production
+
+```bash
+npm run build
 ```
 
-**Edit a file directly in GitHub**
+### Preview Production Build
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run preview
+```
 
-**Use GitHub Codespaces**
+### Deploy to GitHub Pages
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
+```bash
+npm run deploy
+```
+
+## 📁 Project Structure
+
+```
+src/
+├── components/          # Reusable UI components
+├── pages/              # Page components
+├── lib/                # Utility functions
+└── main.tsx           # Application entry point
+```
+
+## 🎨 Customization
+
+- Update personal information in the respective components
+- Modify colors and themes in `tailwind.config.ts`
+- Add new projects in the `ProjectsSection` component
+- Update skills in the `SkillsSection` component
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 📞 Contact
+
+V. Sasidhar - Full Stack Developer
+- LinkedIn: [Your LinkedIn Profile]
+- Email: [Your Email]
+- Portfolio: [https://vetukurisasidhar.github.io/sasidhar-crafts-code/](https://vetukurisasidhar.github.io/sasidhar-crafts-code/)
+
+---
+
+Built with ❤️ using React, TypeScript, and Tailwind CSS
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
