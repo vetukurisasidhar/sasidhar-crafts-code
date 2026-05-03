@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Sasidhar portfolio website built with React, TypeScript, and Tailwind CSS.",
   "type": "module",
-  "homepage": "https://vetukurisasidhar.github.io/sasidhar-crafts-code",
+  "homepage": "https://vetukurisasidhar.github.io/sasidhar_portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

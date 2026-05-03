@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar-portfolio/](https://vetukurisasidhar.github.io/sasidhar-portfolio/)
+Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar_portfolio/](https://vetukurisasidhar.github.io/sasidhar_portfolio/)
 
 ## 🛠️ Tech Stack
 
@@ -36,8 +36,8 @@ Visit the live portfolio at: [https://vetukurisasidhar.github.io/sasidhar-portfo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vetukurisasidhar/sasidhar-portfolio.git
-   cd sasidhar-portfolio
+   git clone https://github.com/vetukurisasidhar/sasidhar_portfolio.git
+   cd sasidhar_portfolio
    ```
 
 2. **Install dependencies**
@@ -96,7 +96,7 @@ This project is open source and available under the [MIT License](LICENSE).
 V. Sasidhar - Full Stack Developer
 - LinkedIn: [Your LinkedIn Profile]
 - Email: [Your Email]
-- Portfolio: [https://vetukurisasidhar.github.io/sasidhar-portfolio/](https://vetukurisasidhar.github.io/sasidhar-portfolio/)
+- Portfolio: [https://vetukurisasidhar.github.io/sasidhar_portfolio/](https://vetukurisasidhar.github.io/sasidhar_portfolio/)
 
 ---
 
